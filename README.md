@@ -1,0 +1,2 @@
+# vscode-beancount-auto-completion
+ 
